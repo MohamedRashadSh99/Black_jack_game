@@ -1,0 +1,42 @@
+
+body
+{
+    background-color: rgb(27, 25, 23);
+    color: white;
+}
+
+
+p  
+{
+    width: 50%px;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 300;
+    font-style: oblique;
+    
+}
+
+.footer
+{
+     background: #333;color: #FFF;font-size: 20px;padding: 10px 0;
+}
+.links{text-align: center; padding: 20px 0}
+.n
+{ font-weight:700 ; text-decoration: line-through; }
+.b{    
+ word-spacing: 20px;
+ white-space: nowrap;
+ text-transform:uppercase;
+ text-indent: 100px;
+ background: #A01B1B;padding:
+  10px;color: #ffff00;
+  letter-spacing:10px ;direction:ltr;
+   line-height: 70px; 
+margin-left: 200px; }
+
+.cont3
+{
+    margin-left: 200px;
+    margin-top: 20px;
+}
